@@ -114,7 +114,7 @@ As Founder & CEO, I own the full product lifecycle — from identifying problems
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=python,rust,react,js,html,css,mysql,git,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,rust,react,html,css,mysql,git,github,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
