@@ -18,7 +18,7 @@
 
 <br/>
 
-<a href="https://mksportfolio1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://karunyasarma.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
 <a href="https://enclaveedge.netlify.app/"><img src="https://img.shields.io/badge/EnclaveEdge-F97316?style=for-the-badge&logo=rocket&logoColor=white"/></a>
 &nbsp;
