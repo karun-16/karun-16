@@ -213,7 +213,7 @@ As Founder & CEO, I own the full product lifecycle — from identifying problems
 
 <div align="center">
 
-<a href="https://mksportfolio1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-mksportfolio1.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://karunyasarma.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-mksportfolio1.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/karun-16"><img src="https://img.shields.io/badge/GitHub-karun--16-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
