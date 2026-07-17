@@ -27,6 +27,7 @@
 <a href="https://www.linkedin.com/in/mkarunya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:sarma.karunya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-Education-181717?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -154,12 +155,25 @@ As Founder & CEO, I own the full product lifecycle — from identifying problems
 ## Current Focus
 
 ```
-▸  Strengthening Data Analytics skills — Python, SQL, and visualization
-▸  Building OffiqAI — AI-powered workplace productivity platform
-▸  Building PharmaLedger — pharmaceutical management solution
-▸  Growing OffiqShare — improving features and user experience
-▸  Scaling EnclaveEdge — strategy, products, and partnerships
+▸ Strengthening Data Analytics with Python, SQL & Visualization
+▸ Building OffiqAI — AI-powered workplace productivity platform
+▸ Contributing to Open Source
+▸ Preparing for GitHub Campus Expert
+▸ Growing EnclaveEdge through impactful software products
 ```
+
+---
+
+## Community
+
+I believe technology grows through collaboration and knowledge sharing.
+
+I'm currently working towards:
+
+- 🎤 Conducting Git & GitHub workshops
+- 🌍 Helping students get started with Open Source
+- 💡 Mentoring juniors through project-based learning
+- 🤝 Building an active developer community
 
 ---
 
@@ -187,6 +201,17 @@ As Founder & CEO, I own the full product lifecycle — from identifying problems
 <img src="https://streak-stats.demolab.com?user=karun-16&theme=tokyonight&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=FF6B35&currStreakLabel=F97316&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak"/>
 
 </div>
+
+---
+
+## 2026 Goals
+
+- [x] GitHub Student Developer Pack
+- [ ] First Open Source Contribution
+- [ ] 10+ Merged Pull Requests
+- [ ] Organize Git & GitHub Workshop
+- [ ] Mentor Student Developers
+- [ ] Become GitHub Campus Expert
 
 ---
 
